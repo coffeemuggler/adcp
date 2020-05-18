@@ -8,7 +8,7 @@
 #' likely that it contains a rish variety of bugs and missing functionalities.
 #'
 #' \tabular{ll}{ Package: \tab adcp\cr Type: \tab Package\cr Version: \tab
-#' 0.1.0\cr Date: \tab 2020-05-20\cr License: \tab GPL-3\cr }
+#' 0.2.0\cr Date: \tab 2020-05-20\cr License: \tab GPL-3\cr }
 #'
 #' @name adcp-package
 #' @aliases adcp

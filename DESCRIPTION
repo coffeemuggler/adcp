@@ -1,7 +1,7 @@
 Package: adcp
 Type: Package
 Title: Functions to Import and Analyse ADCP Files
-Version: 0.1.0
+Version: 0.2.0
 Author: Michael Dietze
 Maintainer: Michael Dietze <mdietze@gfz-potsdam.de>
 Description: ADCP data from Sontek devices can be exported as Matlab (Mat)
