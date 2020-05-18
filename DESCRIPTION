@@ -1,0 +1,22 @@
+Package: adcp
+Type: Package
+Title: Functions to Import and Analyse ADCP Files
+Version: 0.1.0
+Author: Michael Dietze
+Maintainer: Michael Dietze <mdietze@gfz-potsdam.de>
+Description: ADCP data from Sontek devices can be exported as Matlab (Mat)
+    files. In order to work with such files in R, this package allows
+    generic import functionality for such files. In addition, a plot
+    function is added that allows visualisation of relevant data.
+    Note that this package is currently under development and it is very
+    likely that it contains a rish variety of bugs and missing functionalities.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.6.0)
+RoxygenNote: 7.1.0
+Imports:
+    grDevices,
+    graphics,
+    R.matlab,
